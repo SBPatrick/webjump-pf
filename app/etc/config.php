@@ -264,7 +264,7 @@ return [
         'Magento_ThemeGraphQl' => 1,
         'Magento_Tinymce3' => 1,
         'Magento_Translation' => 1,
-        'Magento_TwoFactorAuth' => 1,
+        'Magento_TwoFactorAuth' => 0,
         'Magento_GoogleOptimizer' => 1,
         'Magento_Ups' => 1,
         'Magento_SampleData' => 1,
@@ -287,6 +287,7 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
+        'Carbono_CalculatorShipping' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Dotdigitalgroup_Chat' => 1,
         'Klarna_Core' => 1,
@@ -298,6 +299,16 @@ return [
         'Temando_ShippingRemover' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
+        'Webjump_Carbono' => 1,
+        'Webjump_CarbonoSales' => 1,
+        'Webjump_CmsPageTranslator' => 1,
+        'Webjump_CoreConfigurator' => 1,
+        'Webjump_CustomerBr' => 1,
+        'Webjump_DisableRegistration' => 1,
+        'Webjump_OrderStatus' => 1,
+        'Webjump_PostCode' => 1,
+        'Webjump_ProductIncrementButtons' => 1,
+        'Webjump_ViaCep' => 1,
         'Yotpo_Yotpo' => 1
     ]
 ];
